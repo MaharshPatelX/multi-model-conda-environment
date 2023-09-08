@@ -13,8 +13,8 @@ https://docs.conda.io/en/latest/miniconda.html
 #### 1. Create a new conda environment
 
 ```
-conda create -n textgen python=3.10.9
-conda activate textgen
+conda create -n llm_env python=3.10.9
+conda activate llm_env
 ```
 
 #### 2. Install Pytorch
