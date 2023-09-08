@@ -33,6 +33,6 @@ The up-to-date commands can be found here: https://pytorch.org/get-started/local
 #### 3. Install the web UI
 
 ```
-curl -o req.txt https://raw.githubusercontent.com/MaharshPatelX/text-generation-webui/main/requirements.txt
+curl -o req.txt https://raw.githubusercontent.com/MaharshPatelX/conda-environment-multi-model/main/requirements.txt
 pip3 install -r requirements.txt
 ```
